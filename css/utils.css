@@ -1,0 +1,17 @@
+.text-center{
+    align-items:center;
+    text-align: center;
+}  
+.my-1{
+    margin: 10px;
+    text-align: left;
+    width: fit-content;
+}
+.btn{
+    padding: 5px 5px;
+    color: white;
+    background-color: var(--main-bg-color);
+    border-radius: 3px;
+    border: wheat;
+    cursor: pointer;
+}
