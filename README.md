@@ -1,6 +1,10 @@
 # Temperature Converter
 #celsius, #fahrenheit, #kelvin
 
+## Preview
+
+![Untitled video - Made with Clipchamp](https://github.com/TARUN2K3/Temperature-Converter/assets/127468524/c575e365-d643-4852-ad73-e144e896b7bb)
+
 A visually appealing and user-friendly temperature converter to simplify your temperature calculations.
 
 ## Features
@@ -21,10 +25,6 @@ A visually appealing and user-friendly temperature converter to simplify your te
 - Celsius: &#8451;
 - Fahrenheit: &#8457;
 - Kelvin: &#8490;
-
-## Preview
-
-![Untitled video - Made with Clipchamp](https://github.com/TARUN2K3/Temperature-Converter/assets/127468524/c575e365-d643-4852-ad73-e144e896b7bb)
 
 ## Running Locally
 
