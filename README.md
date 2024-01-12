@@ -15,7 +15,7 @@ A visually appealing and user-friendly temperature converter to simplify your te
 
 ## How to Use
 
-1. Open `index.html` in your preferred web browser.
+1. Open `temp.html` in your preferred web browser.
 2. Enter the temperature value in the input field for the desired unit (Celsius, Fahrenheit, or Kelvin).
 3. View the converted values in the other input fields instantly.
 4. Use the "Reset" button to clear all input fields.
